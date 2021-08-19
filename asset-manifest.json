@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/breakingbadseries/index.html/static/css/main.223e2eb1.chunk.css",
-    "main.js": "/breakingbadseries/index.html/static/js/main.f4dc2f93.chunk.js",
-    "main.js.map": "/breakingbadseries/index.html/static/js/main.f4dc2f93.chunk.js.map",
-    "runtime-main.js": "/breakingbadseries/index.html/static/js/runtime-main.c799f768.js",
-    "runtime-main.js.map": "/breakingbadseries/index.html/static/js/runtime-main.c799f768.js.map",
-    "static/js/2.bcd91202.chunk.js": "/breakingbadseries/index.html/static/js/2.bcd91202.chunk.js",
-    "static/js/2.bcd91202.chunk.js.map": "/breakingbadseries/index.html/static/js/2.bcd91202.chunk.js.map",
-    "static/js/3.ccdf9ea9.chunk.js": "/breakingbadseries/index.html/static/js/3.ccdf9ea9.chunk.js",
-    "static/js/3.ccdf9ea9.chunk.js.map": "/breakingbadseries/index.html/static/js/3.ccdf9ea9.chunk.js.map",
-    "index.html": "/breakingbadseries/index.html/index.html",
-    "static/css/main.223e2eb1.chunk.css.map": "/breakingbadseries/index.html/static/css/main.223e2eb1.chunk.css.map",
-    "static/js/2.bcd91202.chunk.js.LICENSE.txt": "/breakingbadseries/index.html/static/js/2.bcd91202.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/breakingbadseries/index.html/static/media/bg.085908ea.jpg",
-    "static/media/logo.e6ecab44.png": "/breakingbadseries/index.html/static/media/logo.e6ecab44.png",
-    "static/media/spinner.11d9cde8.gif": "/breakingbadseries/index.html/static/media/spinner.11d9cde8.gif"
+    "main.css": "/breakingbadseries/react-app/static/css/main.e902a845.chunk.css",
+    "main.js": "/breakingbadseries/react-app/static/js/main.f4dc2f93.chunk.js",
+    "main.js.map": "/breakingbadseries/react-app/static/js/main.f4dc2f93.chunk.js.map",
+    "runtime-main.js": "/breakingbadseries/react-app/static/js/runtime-main.6a6ffec6.js",
+    "runtime-main.js.map": "/breakingbadseries/react-app/static/js/runtime-main.6a6ffec6.js.map",
+    "static/js/2.bcd91202.chunk.js": "/breakingbadseries/react-app/static/js/2.bcd91202.chunk.js",
+    "static/js/2.bcd91202.chunk.js.map": "/breakingbadseries/react-app/static/js/2.bcd91202.chunk.js.map",
+    "static/js/3.ccdf9ea9.chunk.js": "/breakingbadseries/react-app/static/js/3.ccdf9ea9.chunk.js",
+    "static/js/3.ccdf9ea9.chunk.js.map": "/breakingbadseries/react-app/static/js/3.ccdf9ea9.chunk.js.map",
+    "index.html": "/breakingbadseries/react-app/index.html",
+    "static/css/main.e902a845.chunk.css.map": "/breakingbadseries/react-app/static/css/main.e902a845.chunk.css.map",
+    "static/js/2.bcd91202.chunk.js.LICENSE.txt": "/breakingbadseries/react-app/static/js/2.bcd91202.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/breakingbadseries/react-app/static/media/bg.085908ea.jpg",
+    "static/media/logo.e6ecab44.png": "/breakingbadseries/react-app/static/media/logo.e6ecab44.png",
+    "static/media/spinner.11d9cde8.gif": "/breakingbadseries/react-app/static/media/spinner.11d9cde8.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.c799f768.js",
+    "static/js/runtime-main.6a6ffec6.js",
     "static/js/2.bcd91202.chunk.js",
-    "static/css/main.223e2eb1.chunk.css",
+    "static/css/main.e902a845.chunk.css",
     "static/js/main.f4dc2f93.chunk.js"
   ]
 }
